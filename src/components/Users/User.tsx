@@ -1,5 +1,5 @@
 //render data provided in the props. Fetched from parent component
-import React, { FC } from 'react'
+import { FC } from 'react'
 
 export interface IUserData {
   _id: string

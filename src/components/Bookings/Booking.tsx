@@ -1,5 +1,5 @@
 //render data provided in the props. Fetched from parent component
-import React, { FC } from 'react'
+import { FC } from 'react'
 
 export interface IBooking {
   _id: string // Assuming ObjectId is a string type in TypeScript
