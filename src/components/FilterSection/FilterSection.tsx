@@ -1,4 +1,3 @@
-import React from 'react'
 import "./FilterSection.scss";
 const FilterSection = () => {
   const filters = ['All makes', 'All models', 'All years']

@@ -1,4 +1,3 @@
-import React from 'react'
 import './Navbar.scss'
 const Navbar = () => {
   const links = ['Cars', 'Electric', 'Autonomous', 'Trucks', 'Vans']
